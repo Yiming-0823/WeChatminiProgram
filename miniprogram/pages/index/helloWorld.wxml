@@ -1,0 +1,3 @@
+<!--pages/index/helloWorld.wxml-->
+
+<text>{{data}}</text>
